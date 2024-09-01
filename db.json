@@ -1,0 +1,14 @@
+{
+   "data": [
+      {
+         "reference": "asa",
+         "categorie": "sas",
+         "marque": "asas",
+         "description": "sasasas",
+         "prix_achat": 12,
+         "gain": 0.25,
+         "prix_vente": 15,
+         "id": 471830109993569180
+      }
+   ]
+}
